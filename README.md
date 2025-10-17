@@ -77,7 +77,7 @@ Se você quiser rodar o projeto a partir do código-fonte, siga os passos abaixo
 
 ## Licença
 
-Este projeto está sob a [licença](LICENSE.md) MIT.
+Este projeto está sob a licença MIT.
 
 ---
 
