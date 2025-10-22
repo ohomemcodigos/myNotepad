@@ -45,7 +45,7 @@ Existem duas maneiras de executar este projeto: baixando o executável ou rodand
 
 A maneira mais fácil de usar o myNotepad é baixando a versão pronta para uso.
 
-1.  Vá para a seção de [**Releases**](https://github.com/SEU-USUARIO/myNotepad/releases) deste repositório.
+1.  Vá para a seção de [**Releases**](https://github.com/ohomemcodigos/myNotepad/releases) deste repositório.
 2.  Baixe o arquivo `notes.exe` da última versão.
 3.  Execute o arquivo. Não é necessário instalar nada!
 
